@@ -24,7 +24,7 @@ const StudentInfo = () => {
         {/* Profile */}
         <div className="flex flex-row sm:flex-row items-center relative sm:items-start gap-4">
           <img
-            src="src/assets/img1.jpeg"
+            src="https://img.sanishtech.com/u/a188cfc973cd670e10685d423fb8f1d7.jpg"
             alt="student"
             className="w-20 h-20 sm:w-24 sm:h-24 rounded-full  object-cover "
           />
@@ -96,3 +96,4 @@ const StudentInfo = () => {
 };
 
 export default StudentInfo;
+
